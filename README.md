@@ -118,7 +118,7 @@ If this Dart package is published to Github, add the following dependency to you
 - `Retrieve medical plans from Rhino` - Find a technology you can use on your project to call Rhino endpoint to retrieve medical plans and save the data on Tiger database.
   - Definition of done:
     - Retrieve medical plans from Rhino and save the plans onto tiger database.
-- `Add authentication (JWT)` - Add an authentication mechanism to the Tiger backend. The authentication is to be implemented should be JWT.
+- `Add authentication (JWT)` - Add an authentication mechanism to the Tiger backend. The authentication to be implemented should be JWT.
 Note: The expectation is that this task will take you at lest more than a day to complete. So, please take your time, what we are are looking for is understanding not how quickly you can complete the task.
   - Definition of done:
     - Table for storing user credentials is designed and created if its not there already. And the user can be authenticated using JWT mechanism.
